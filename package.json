@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/FarhanaIslamSaima/Project_Collaborate/issues"
   },
-  "homepage": "https://github.com/FarhanaIslamSaima/Project_Collaborate#readme"
+  "homepage": "https://github.com/FarhanaIslamSaima/Project_Collaborate#readme",
+  "dependencies": {
+    "mongoose": "^6.6.1"
+  }
 }
